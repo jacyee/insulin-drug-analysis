@@ -5,3 +5,5 @@
 use HBA1C level change as key metric to determine if Auralin drug is effective enough to reduce blood sugar level for diabetes patients
 <br>
 <b>patients,treatments, adverse reactions data</b>
+<br>
+calculated average patient metrics (e.g. age, weight, height, and BMI) and calculating the confidence interval for the difference in HbA1c change means between Novodra and Auralin patients.
